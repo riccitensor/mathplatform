@@ -63,6 +63,15 @@ python mathplatform.py
 
 ### Examples
 
+Currently,
+
+python3 mathplatform.py "#eval 1 + 2 * 5"
+
+Lean Verification Result:
+ Lean verification successful.
+
+In principle,
+
 1. Natural language
 User: Prove that for all natural numbers n, n + 0 = n.
 AI: [Generates and verifies proof using Lean, Prover9]
