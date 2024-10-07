@@ -58,11 +58,11 @@
 ### Running the tool
 
 Run the main application:
-```bash
-python mathplatform.py
+
 
 ### Examples
 
+```bash
 Currently,
 
 python3 mathplatform.py "#eval 1 + 2 * 5"
@@ -83,4 +83,10 @@ begin
   rw nat.zero_add,
 end
 AI: User inputs Lean code directly. [Verifies and provides feedback or suggestions]
+```
+
+### License
+
+This project is licensed under the Apache License 2.0. You are free to use, modify, and distribute this software in accordance with the terms of the Apache License 2.0.
+
 
