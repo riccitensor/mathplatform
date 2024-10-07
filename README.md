@@ -60,3 +60,18 @@
 Run the main application:
 ```bash
 python mathplatform.py
+
+### Examples
+
+1. Natural language
+User: Prove that for all natural numbers n, n + 0 = n.
+AI: [Generates and verifies proof using Lean, Prover9]
+
+2. Lean
+User: 
+theorem add_zero (n : ℕ) : n + 0 = n :=
+begin
+  rw nat.zero_add,
+end
+AI: User inputs Lean code directly. [Verifies and provides feedback or suggestions]
+
