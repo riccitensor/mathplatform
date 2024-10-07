@@ -1,6 +1,6 @@
-# MathAssistant AI
+# Math Platform
 
-**MathAssistant AI** is a cutting-edge AI-powered platform designed to assist mathematicians by integrating multiple theorem provers and advanced language models. Leveraging tools like Lean, Prover9, Mace4, and more in the future, MathAssistant AI facilitates seamless interaction through natural language or Lean syntax, providing comprehensive support for formal proofs, theorem exploration, and mathematical research.
+**Math Platform** is a AI-powered tool designed to assist mathematicians by integrating multiple theorem provers and advanced language models. Leveraging tools like Lean, Prover9, Mace4, and more in the future, MathAssistant AI facilitates seamless interaction through natural language or Lean syntax, providing comprehensive support for formal proofs, theorem exploration, and mathematical research.
 
 ## Features
 
@@ -42,18 +42,20 @@
       OPENAI_API_KEY=your_openai_api_key
       CLAUDE_API_KEY=your_claude_api_key
       ```
+      (soon more)
 
 4. **Install Theorem Provers:**
     - **Lean:** Follow the [Lean installation guide](https://leanprover.github.io/download/).
     - **Prover9:** Download from the [Prover9 website](https://www.prover9.info/).
     - **Mace4:** Download from the [Mace4 website](http://www.cs.unm.edu/~mccune/mace4/).
-
+    - 
+    (soon more)
 5. **Setup Farspeak:**
     - Follow the [Farspeak documentation](https://farspeak.example.com) to install and configure.
 
 ## Usage
 
-### Starting the AI Agent
+### Running the tool
 
 Run the main application:
 ```bash
