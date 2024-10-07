@@ -5,8 +5,7 @@
 ## Features
 
 - **Multi-Theorem Prover Integration:** Utilize Lean, Prover9, Mace4, and expand to additional provers effortlessly.
-- **Advanced AI Admin Panel:** Powered by Farspeak, manage APIs and oversee AI operations with ease.
-- **Diverse Language Models:** Harness the capabilities of Claude, OpenAI's GPT-4, and more to generate accurate and insightful mathematical assistance.
+- **Diverse Language Models:** Harness the capabilities of OpenAI's GPT-4, Anthropic's Claude and more to generate accurate and insightful mathematical assistance.
 - **Flexible Communication:** Interact using natural language or Lean syntax to receive tailored help and solutions.
 - **Automated Proof Generation & Verification:** Generate, verify, and refine mathematical proofs automatically across multiple platforms.
 - **Future-Proof Architecture:** Designed to incorporate additional tools and models as they become available.
@@ -50,8 +49,6 @@
     - **Mace4:** Download from the [Mace4 website](http://www.cs.unm.edu/~mccune/mace4/).
     - 
     (soon more)
-5. **Setup Farspeak:**
-    - Follow the [Farspeak documentation](https://farspeak.example.com) to install and configure.
 
 ## Usage
 
